@@ -50,3 +50,9 @@ Small projects focused on graphic app development for mobile - Front-end/Back-en
    ```bash
    python filename.py
    ```
+
+## Language
+
+ <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+</div>
